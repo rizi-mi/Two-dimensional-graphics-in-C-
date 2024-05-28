@@ -1,0 +1,15 @@
+C:\Users\malya\Downloads\Graphics_with_C\bin\Debug\Graphics_with_C.exe.config
+C:\Users\malya\Downloads\Graphics_with_C\bin\Debug\Graphics_with_C.exe
+C:\Users\malya\Downloads\Graphics_with_C\bin\Debug\Graphics_with_C.pdb
+C:\Users\malya\Downloads\Graphics_with_C\obj\Debug\Lab#7.csproj.AssemblyReference.cache
+C:\Users\malya\Downloads\Graphics_with_C\obj\Debug\Lab#7.csproj.SuggestedBindingRedirects.cache
+C:\Users\malya\Downloads\Graphics_with_C\obj\Debug\Graphics_with_C.Form1.resources
+C:\Users\malya\Downloads\Graphics_with_C\obj\Debug\Graphics_with_C.Form2.resources
+C:\Users\malya\Downloads\Graphics_with_C\obj\Debug\Graphics_with_C.Form3.resources
+C:\Users\malya\Downloads\Graphics_with_C\obj\Debug\Graphics_with_C.Formtest1.resources
+C:\Users\malya\Downloads\Graphics_with_C\obj\Debug\Graphics_with_C.Formtest2.resources
+C:\Users\malya\Downloads\Graphics_with_C\obj\Debug\Graphics_with_C.Properties.Resources.resources
+C:\Users\malya\Downloads\Graphics_with_C\obj\Debug\Lab#7.csproj.GenerateResource.cache
+C:\Users\malya\Downloads\Graphics_with_C\obj\Debug\Lab#7.csproj.CoreCompileInputs.cache
+C:\Users\malya\Downloads\Graphics_with_C\obj\Debug\Graphics_with_C.exe
+C:\Users\malya\Downloads\Graphics_with_C\obj\Debug\Graphics_with_C.pdb
